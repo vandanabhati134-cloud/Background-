@@ -1,3 +1,2 @@
 Project1--Background_Image
-a minimalist we desgin project showcasing a serene star-gazing scene using fundamental HTML and CSS techniques.
- https://vandanabhati134-cloud.github.io/Background-/
+Dive into the blue! A visually stunning HTML/CSS single-page website showcasing beautiful marine life with elegant overlay text styling.
